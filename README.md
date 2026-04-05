@@ -1,4 +1,4 @@
-# Tarea Semana 16: Aplicación GUI - Lista de Tareas con Atajos de Teclado (Mejora del Sistema Semana 15)
+# Tarea Semana 16: Aplicación GUI - Lista de Tareas con Atajos de Teclado
 
 **Autor:** ANDREW DAVID VALENZUELA YELA
 
